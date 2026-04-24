@@ -50,13 +50,14 @@ Yapılan hiperparametre optimizasyonu sonucunda, Support Vector Machine (SVC) mo
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Repoyu Klonlayın
-   ```bash
-   git clone [https://github.com/yakubaltikardes/SaglikRiskAnalizi.git](https://github.com/yakubaltikardes/SaglikRiskAnalizi.git)```
+```bash
+   git clone [https://github.com/yakubaltikardes/SaglikRiskAnalizi.git](https://github.com/yakubaltikardes/SaglikRiskAnalizi.git)
 2. Gerekli kütüphaneleri yükleyin
        ```bash
-       pip install numpy pandas seaborn matplotlib scikit-learn xgboost lightgbm catboost```
+       pip install numpy pandas seaborn matplotlib scikit-learn xgboost lightgbm catboost
+
 3. Jupyter Notebook'u başlatın ve Model.ipynb dosyasını çalıştırın
-        ```bash
-        jupyter notebook```
+        ```
+        jupyter notebook
         
 Not: Hastalar.csv dosyasının notebook ile aynı dizinde bulunduğundan emin olun.
