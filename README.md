@@ -51,7 +51,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. Repoyu Klonlayın
    ```bash
-   git clone [https://github.com/kullanici_adiniz/proje-adi.git](https://github.com/kullanici_adiniz/proje-adi.git)```
+   git clone [https://github.com/yakubaltikardes/SaglikRiskAnalizi.git](https://github.com/yakubaltikardes/SaglikRiskAnalizi.git)```
 2. Gerekli kütüphaneleri yükleyin
        ```bash
        pip install numpy pandas seaborn matplotlib scikit-learn xgboost lightgbm catboost```
